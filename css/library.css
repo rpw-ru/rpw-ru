@@ -45,4 +45,6 @@ ul.library li img {
     text-align: right;
 }
 
-
+.book-description-container ul {
+    padding: 0;
+}
