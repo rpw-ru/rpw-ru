@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="417afbc3-e283-408c-91a0-d49b614c0f7c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nr/Mazur.html" beforeDir="false" afterPath="$PROJECT_DIR$/nr/Mazur.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nr/nr.html" beforeDir="false" afterPath="$PROJECT_DIR$/nr/nr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nr/pr_konst.html" beforeDir="false" afterPath="$PROJECT_DIR$/nr/pr_konst.html" afterDir="false" />
-    </list>
+    <list default="true" id="417afbc3-e283-408c-91a0-d49b614c0f7c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,117 +11,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/sbornik.html">
+        <entry file="file://$PROJECT_DIR$/public/Yurkov2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="390">
+              <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/protiv.html">
+        <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nr/nr.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#4986#4992#0" expanded="true" />
-                <element signature="e#5181#5187#0" expanded="true" />
-                <element signature="e#5429#5435#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_site/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/public/Fedin.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nr/Mazur.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nr/pr_konst.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-              <folding>
-                <element signature="e#483#489#0" expanded="true" />
-                <element signature="e#491#497#0" expanded="true" />
-                <element signature="e#875#881#0" expanded="true" />
-                <element signature="e#883#889#0" expanded="true" />
-                <element signature="e#1126#1132#0" expanded="true" />
-                <element signature="e#1134#1140#0" expanded="true" />
-                <element signature="e#1406#1412#0" expanded="true" />
-                <element signature="e#1414#1420#0" expanded="true" />
-                <element signature="e#1665#1671#0" expanded="true" />
-                <element signature="e#1673#1679#0" expanded="true" />
-                <element signature="e#2038#2044#0" expanded="true" />
-                <element signature="e#2046#2052#0" expanded="true" />
-                <element signature="e#2687#2693#0" expanded="true" />
-                <element signature="e#2695#2701#0" expanded="true" />
-                <element signature="e#2906#2912#0" expanded="true" />
-                <element signature="e#2914#2920#0" expanded="true" />
-                <element signature="e#3055#3061#1" expanded="true" />
-                <element signature="e#3154#3160#0" expanded="true" />
-                <element signature="e#3166#3172#0" expanded="true" />
-                <element signature="e#3611#3617#0" expanded="true" />
-                <element signature="e#3624#3630#0" expanded="true" />
-                <element signature="e#4352#4358#0" expanded="true" />
-                <element signature="e#4365#4371#0" expanded="true" />
-                <element signature="e#5143#5149#0" expanded="true" />
-                <element signature="e#5156#5162#0" expanded="true" />
-                <element signature="e#5632#5638#0" expanded="true" />
-                <element signature="e#5645#5651#0" expanded="true" />
-                <element signature="e#6188#6194#0" expanded="true" />
-                <element signature="e#6201#6207#0" expanded="true" />
-                <element signature="e#6536#6542#0" expanded="true" />
-                <element signature="e#6549#6555#0" expanded="true" />
-                <element signature="e#6870#6876#1" expanded="true" />
-                <element signature="e#8790#8796#1" expanded="true" />
-                <element signature="e#8816#8822#1" expanded="true" />
-                <element signature="e#9655#9661#1" expanded="true" />
-                <element signature="e#11343#11349#1" expanded="true" />
-                <element signature="e#15278#15284#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/izbir.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/Zhurav.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -148,8 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/nr/Degterev4.html" />
-        <option value="$PROJECT_DIR$/nr/a.html" />
         <option value="$PROJECT_DIR$/avia.html" />
         <option value="$PROJECT_DIR$/nr/pr_kon_u.html" />
         <option value="$PROJECT_DIR$/nr/Kudr.html" />
@@ -199,6 +105,8 @@
         <option value="$PROJECT_DIR$/nr/nr.html" />
         <option value="$PROJECT_DIR$/_site/about.html" />
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/public/Yurkov2.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -242,6 +150,11 @@
               <item name="rpw" type="462c0819:PsiDirectoryNode" />
               <item name="nr" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="rpw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rpw" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -283,17 +196,18 @@
       <option name="presentableId" value="Default" />
       <updated>1547848731787</updated>
       <workItem from="1547848732945" duration="327000" />
-      <workItem from="1547849820344" duration="28531000" />
+      <workItem from="1547849820344" duration="29914000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28858000" />
+    <option name="totallyTimeSpent" value="30241000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21527393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21527393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -306,7 +220,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.44060475" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.44060475" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -339,20 +253,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/nr/pr_kon_u.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="209" column="52" lean-forward="true" selection-start-line="209" selection-start-column="52" selection-end-line="209" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nr/Leshuk.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="30" column="54" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nr/pr_zv.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1299,6 +1199,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_site/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/nr/nr.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1310,15 +1217,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/about.html">
+    <entry file="file://$PROJECT_DIR$/public/Yurkov2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="390">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
