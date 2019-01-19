@@ -9,7 +9,20 @@
 </head>
 <body>
 <section>
-    {{ content }}
+    <div class="book-description-container">
+        <div class="download-area">
+            {% if page.buy %}
+                <a class="buy-link" href={{page.buy}}>Купить</a>
+            {% endif %}
+
+            {% if page.download %}
+                <a class="download-link" href={{page.download}}>Скачать</a>
+            {% endif %}
+        </div>
+        <div class="book-description">
+            {{ content }}
+        </div>
+    </div>
 </section>
 <footer>
     <Table Width="100%" Border="0" CellSpacing="0" CellPadding="2">
