@@ -214,3 +214,22 @@ a.download-link:hover {
     background: #2c85f0;
 }
 
+
+button.playpause {
+    background: #2a7ae2;
+    padding: 10px 20px;
+    color: white;
+    cursor: pointer;
+    ourline: none;
+    border: none;
+}
+
+button.playpause:hover {
+    background: #2c85f0;
+}
+
+audio[controls] {
+    margin: 20px 0;
+    width: 100%;
+}
+
