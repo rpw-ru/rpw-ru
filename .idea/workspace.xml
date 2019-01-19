@@ -2,1921 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="417afbc3-e283-408c-91a0-d49b614c0f7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rpw.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20_let.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Afan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KU.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kazennov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Khmel_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Khmelko.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Khmelko.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/00.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/01.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/02.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/03.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/04.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/05.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/06.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/07.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/08.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/09.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/10.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/confer2007.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400009.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400009.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400009_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400016.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400016.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400016_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400021.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400021.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400021_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400022.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400022.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400022_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400044.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400044.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400044_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400055.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400055.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400055_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400056.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400056.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400056_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400057.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400057.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400057_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400070.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400070.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400070_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400079.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400079.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400079_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400084.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400084.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400084_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400109.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400109.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400109_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400128.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400128_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400130.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400130.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400130_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400169.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400169.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400169_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400184.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400184.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400184_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400188.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400188.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400188_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400194.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400194.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400194_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400197.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400197.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400197_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400224.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400224.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400224_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400238.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400238.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400238_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400265.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400265.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400265_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400271.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400271.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400271_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400315.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400315.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400315_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400351.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400351.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400351_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400371.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400371.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400371_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400383.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400383.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/17400383_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/P1010177.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/P1010177.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/foto/P1010177_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2007/sbornik.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/Rysev2008.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/confer2008.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/program2008.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/sbornik2008.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2008/zal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/01_gl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/02_pa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/04_ba.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/05_ga.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/06_ge.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/07_el.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/08_er.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/09_es.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/10_zu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/11_1_sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/11_ha.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/12_ka.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/13_mu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/14_na.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/15_iv.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/16_og.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/17_po.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/18_ri.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/19_ru.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/20_sh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/21_ch.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/22_tu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/Lenin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/Rysev2009.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-01m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-02m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-03m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-04m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-05.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-05m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-06.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-06m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-07.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-07m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-08.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-08m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-09.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-09m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/a-10m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/confer2009.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/program2009.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2009/sbornik2009.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/00_a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/01_ko.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/02_ad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/03_ma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/04_bu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/05_vo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/06_ge.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/07_ga.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/08_iv.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/09_ka.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/10_ma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/11_zu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/12_na.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/13_al.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/14_sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/15_ku.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/16_na.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/17_og.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/18_po.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/19_ri.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/20_te.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/21_tu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/22_ha.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/23_ch.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/24_sh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/Len2010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/Rysev2010.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/confer2010.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2010/sbornik2010.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/Lenin-11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/Lenin-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/Lenin-11.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/conf2011pr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/confer2011.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/107.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/107.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/107_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/120.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/120.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/120_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/125.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/125.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/125_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/139.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/139.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/139_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/147.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/147.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/147_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/155.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/155.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/155_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/165.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/165.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/165_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/180.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/180.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/180_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/187.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/187.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/187_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/205.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/205.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/205_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/217.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/217.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/217_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/220.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/220.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/220_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/224.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/224.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/224_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/225.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/225.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/225_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/228.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/228.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/228_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/248.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/248.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/248_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/263.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/263.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/263_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/269.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/269.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/269_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/276.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/276.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/276_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/294.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/294.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/294_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/302.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/302.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/302_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/313.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/313.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/313_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/323.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/323.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/323_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/334.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/334.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/334_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/360.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/360.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/360_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/376.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/376.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/376_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/379.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/379.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/379_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/403.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/403.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/403_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/414.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/414.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/414_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/433.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/433.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/433_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/460.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/460.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/460_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/476.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/476.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/476_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/48.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/48.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/48_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/55.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/55.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/55_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/64.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/64.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/64_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/6_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/74.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/74.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/74_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/87.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/87.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/87_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/93.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/93.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/93_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/z_7a097170.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/z_7a097170.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/fg_2011/z_7a097170_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/lenin2011.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2011/video.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/Bel2012.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1350.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1350.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1350m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1356.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1356.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1356m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1372.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1372.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1372m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1375.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1375.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1375m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1390.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1390.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1390m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1404.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1404m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1425.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1425.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1425m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1446.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1446.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1446m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1452.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1452.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1452m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1507.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1507.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1507m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1534.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1534.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1534m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1537.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1537.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1537m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1563.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1563.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1563m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1586.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1586.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1586m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1597.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1597.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1597m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1617.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1617.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1617m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1622.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1622.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1622m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1641.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1641.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1641m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1654.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1654.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1654m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1671.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1671.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2012/foto/IMG_1671m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2013/Bel2013.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2013/prog2013.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2014/Bel2014.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/2014/prog2014.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/Lenin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/confer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lenin/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leninb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mironov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mironov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Obr_rkr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PT_30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Popov777.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sarzhin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stalin135.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actions/Ignatov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actions/Kovalev.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actions/Kovalev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actions/Kovalev1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actions/Popov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actions/Popov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actions/Popov1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actions/Rysev.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actions/Rysev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actions/Rysev.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actions/actions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actions/electro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/actions/kaluga.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/Communizm.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/Prog26_01_2013.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/audio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/classy.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/popov.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/audio/sovety.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/avia.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/avia.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bal_rez.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/balahna1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/balahna2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/balahna3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/balahna4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/balahna5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dokerm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dvinainf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expert.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fayazov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fond_bn.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fpad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fpr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fpr/declar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fpr/fpr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fpr/fpr_np.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fpr/minust.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fpr/nalog.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fpr/ustavfpr.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fra.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fra/Bushin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fra/Bushin90.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fra/Bushin90.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fra/D.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fra/Kazennov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fra/SM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fra/fra.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ideolog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ideolog.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/Fetisov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/Keynes.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/Keynes.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/Marx.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/Sh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/Sharik.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/Shm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/con13rec.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/con14rec.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/con15rec.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/conf.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/conf2004.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/conf2004.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/conf2005.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/conf2005.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/conf2006.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/conf2006.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/conf2007.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/conf2008.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/conf2009.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/conf2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/edv2011.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/franc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/franc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/ipd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/popov_z.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/popov_z.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/popr_2006.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/pr_fpad.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/rab_vremya.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/roblprof-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/roblprof-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/roblprof.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/rzp.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/solid.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/solid.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/tk.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/ugroza.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/zadachi.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/zarpl.rtf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/zol-11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd/zol-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ipd_bl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kb3/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kb3/1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kb3/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kb3/2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kb3/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kb3/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kb3/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kb3/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kb3/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kb3/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kb3/Efremov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kb3/K1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kb3/K2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kb3/K3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kb3/K4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kb3/K5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kb3/Koshkin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kb3/kb3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kd/Galko.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kd/Galko.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kd/Vasiliy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kd/kd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kd/kd_pkt.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kd/kd_zil.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kd/koldog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kts/TS/TS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kts/TS/TS_1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kts/TS/TS_2_1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kts/TS/TS_2_2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kts/TS/TS_2_3.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kts/TS/TS_2_4.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kts/TS/TS_2_5.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kts/TS/TS_3.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kts/TS/TS_begin.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kts/TS/TS_end.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kts/kts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ku1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kum.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lenru.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/01_borba_e.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/01_borba_e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/01_borba_e.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/01_borba_em.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/02_borba_ep.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/02_borba_ep.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/02_borba_ep.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/02_borba_epm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/34bordugov_pic3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Dialektika_Voprosi_i_otveti.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Elmeev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Elmeev.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Frunze.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Frunze.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/L2012.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/L2012.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/L2012.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/L2013.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/L2013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/L2013.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/L2014.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/L2014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/L2014.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/L2015.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/L2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/L2015.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/L2016.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/L2016.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/L2016.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/L2017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/L2017.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/LR2017.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Lapin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Lapin.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Oglavlenie.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Sinutin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Sinutin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Sinutin.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Smirnov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Smirnov.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Smirnov.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Uroki.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Zhurav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Zinovev.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/dia.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fa_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fi.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/filos.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/filos1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/istina.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/istina.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/istina_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/izbir.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kazenov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/kazenov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/konstit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mal_dial.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/nations.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/popov1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/popov1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/popov2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/popov2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/popov3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/popov3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/protiv.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/protiv.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/rabkrin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/sbornik.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/sbornik.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/sbornik.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/sd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/sd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/sd.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/soc_dia1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/soc_dia2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/soc_dia3.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/sovety.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/sovety.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/sovetysm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/uroki.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/vvedenie.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/vybory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/zolotov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/zolotov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/zolotov.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logosrpr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/01_P.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/02_T.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/03_G.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/04_K.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/05_Vo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/06_Ga.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/07_Galko.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/08_Ve.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/09_Sh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/10_Pz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/EP.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/EP.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/EP_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/G_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/Galko_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/Gvsh_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/Kaz_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/NP20.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/P_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/Pz_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/Shab_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/T2_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/T_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/Tz_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/V_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/Volov_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/video.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/vse.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/vse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/vse_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/20_let/zagol.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/NP133.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/NP134.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np124/Rysev.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np124/Rysev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np124/Sarzhin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np124/Sarzhin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np124/Timofeev.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np124/Timofeev.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np124/Zolotov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np124/Zolotov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np124/action.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np124/dokery-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np124/dokery-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np124/dokery.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np124/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np124/itf.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np124/pkt.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np124/rpd.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np124/zagol.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/Bushin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/Bushin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/Kazennov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/Marx.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/Sidor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/Sidor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/afor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/akt01.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/akt02.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/akt03.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/borba.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/fel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/gorit.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/muzyka.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/spisok.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/tanki.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/turma.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/vbros.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/venok.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/vybory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/zaava1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/zaava2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np125/zagol.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np126/Bushin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np126/Bushin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np126/Mois.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np126/Moiseen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np126/Nefedov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np126/PAME.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np126/Popov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np126/Popov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np126/Rodina.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np126/SandD.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np126/Sarzhin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np126/Sarzhin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np126/Timofeev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np126/Zaharov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np126/dokery.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np126/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np126/karik.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np126/port.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np126/zagol.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np127/NP127.files/filelist.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np127/NP127.files/image002.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np127/NP127.files/image003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np127/NP127.files/image004.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np127/NP127.files/image005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np127/NP127.files/image006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np127/NP127.files/image007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np127/NP127.files/image008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np127/NP127.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np129.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np129/np129.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np130/np130.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np131/NP131.files/filelist.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np131/NP131.files/image001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np131/NP131.files/image002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np131/NP131.files/image003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np131/NP131.files/image005.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np131/NP131.files/image006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np131/NP131.files/image008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np131/NP131.files/image010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np131/NP131.files/image011.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np131/NP131.files/image012.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np131/NP131.files/image013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np131/NP131.files/image014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np131/NP131.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np132/NP132.files/filelist.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np132/NP132.files/image002.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np132/NP132.files/image003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np132/NP132.files/image004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np132/NP132.files/image005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np132/NP132.files/image006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np132/NP132.files/image007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np132/NP132.files/image008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np132/NP132.files/image009.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np132/NP132.files/image010.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np132/NP132.files/image011.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np132/NP132.files/image012.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np132/NP132.files/image013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np132/NP132.files/image014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np132/NP132.files/image015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np132/NP132.files/image016.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np132/NP132.files/image017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np132/NP132.files/image018.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np132/NP132.files/image020.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np132/NP132.files/image021.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np132/NP132.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/25_oct.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Babich.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Belaev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Byl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Chugun.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Czar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Diana.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Dolg-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Dolgov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Franc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Gamov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Gerasimov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Ivanov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Karepin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Karet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Karet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Karet_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Kaz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Kovalev.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Kudr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Kvachkov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Medvedev.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Mironov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Mironov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Mironov_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Mironov_p.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/NP135.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Nikolaev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Popov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Pugach.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Remiz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Remizov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Solovev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Vor.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Ya.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Zol.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Zol_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/Zolotov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/attest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/dvoe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/horon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/horon_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/prenia.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/stud.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/study.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/turma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/z1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/zagol.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/zal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/zarplata.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np135/zarplata.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np136/NP136.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np137/NP137.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np139/NP139.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np141/NP141.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np142/np142.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np143/np143.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np144/np144.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np145/np145.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np146/np146.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np147/np147.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np148/np148.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np149/np149.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np150/np150.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np151/np151.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np152/np152.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np153/np153.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np154/np154.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np154/np154.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np155/np155.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np156/np156.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np157/np157.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np158/np158.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/np158/np158.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/zagol.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np/zagol20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np151.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/np_bann.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nr/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nr/Degterev4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nr/Degterev4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nr/Kudr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nr/Leshuk.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nr/Mazur.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nr/a.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nr/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nr/nr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nr/pr_kon_u.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nr/pr_konst.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nr/pr_zv.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nr/vlast.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pismoputinu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pismoputinu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/polpar1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/popov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/popov.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portovik.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pr-reliz.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pr-reliz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prig777.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prog_fpr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/Chapaev.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/Chapaev.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/Margelov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/Margelov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/Valerij.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/avia.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/chmo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/disp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/index_01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/korea.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/kurort.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/kurort.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/meeting.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/nalog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/nalog.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/rkr/Dorogin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/rkr/Fedotov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/rkr/Fedotov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/rkr/Igoshin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/rkr/Igoshin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/rkr/Kudr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/rkr/Lobov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/rkr/Nezh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/rkr/Petrov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/rkr/Shein.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/rkr/Shein.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/rkr/Shi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/rkr/postan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/rkr/rkr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/rkr/vystup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/rostov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/zagol-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/01/zagol.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/05/Alex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/05/Alex.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/05/Argunov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/05/Argunov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/05/Babich.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/05/Babich.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/05/Bondarev.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/05/Bondarev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/05/Komarov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/05/Komarov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/05/index_02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/05/program.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/05/rpt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/05/zagol.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/05/zagol1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/Argunov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/Oronen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/avtovaz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/index_03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/meeting.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/nn/Conf_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/nn/Conf_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/nn/post_kd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/nn/post_kts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/nn/rek.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/poezd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/prof.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/prof.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/rezol.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/rptfed/Borodina.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/rptfed/Hramov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/rptfed/Kovalev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/rptfed/Moiseenko.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/rptfed/Petrov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/rptfed/Popov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/rptfed/Semenenko.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/rptfed/Shein.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/rptfed/Stroenko.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/rptfed/rptfed.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/rptreg/Argunov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/rptreg/Timofeev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/rptreg/rptreg.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/victor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/07/zagol.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/08/Arefev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/08/Babich.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/08/Cyganov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/08/Igoshin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/08/Kovalev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/08/Kudr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/08/Moiseenko.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/08/Myachev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/08/Shein.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/08/index_04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/08/kd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/08/naput.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/08/pole.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/08/rabprof.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/08/rukovod.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/08/selo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/08/war.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/08/war.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/08/zag_stih.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/08/zagol.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/10/Bogodist.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/10/Igoshina.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/10/Karataev.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/10/Popov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/10/Zolotov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/10/index_05.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/10/mnogo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/10/prof.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/10/stih.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/10/troe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/10/zagol.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/10/zagol_ks.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/Bragin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/Bragin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/Igosh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/Igoshina.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/Kovalev.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/Kovalev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/PZ.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/PopZol.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/Sagat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/ZK.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/conf_pt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/den.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/fran.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/govor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/index_06.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/kud.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/post_pt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/rez_pt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/rkr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/rkr_pt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/shishk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/styl_pt.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/troe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/vse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/zagol.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/11/zagol_ks.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/12/Fetisov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/12/Filippov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/12/Igosh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/12/Igoshina.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/12/Rysev.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/12/UNN.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/12/UNN.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/12/Udalov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/12/Udalov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/12/fash.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/12/index_07.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/12/pobeda.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/12/styl_pt.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/12/vol.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/12/zagol.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/12/zagol_ks.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/12/zarplata.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/Alekseev.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/Babich.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/Babich.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/Bragin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/Franc.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/Grach.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/Harlanov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/Harlanov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/Igosh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/Igoshina.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/Kazak.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/Kudr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/Mil.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/Rivera.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/Rysev.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/Rysev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/Shishk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/Shumakov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/Titarch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/govor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/index_08.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/k744p2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/pozdr.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/rkr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/stih.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/styl_pt.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/zagol.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/zagol_ks.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/13/zkh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/Bylinsk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/Bylinska.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/Fetiso1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/Fetisov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/Fetisov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/Gerasimv.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/Igoshina.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/Igoshina.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/Kazenn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/Leninu.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/Zolotov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/Zolotov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/gorod.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/moshen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/otkrytie.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/otvet.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/styl_pt.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/syezd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/turma.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/zagol.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/15/zagol_ks.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/PT_16.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/PT_17.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/PT_18_p14.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/PT_18_p23.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/PT_19.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/PT_20.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/PT_21.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/PT_22.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/PT_23.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/PT_24.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/PT_25.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/PT_26.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/PT_27.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/PT_28.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/PT_29.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/PT_30.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/PT_31.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/PT_32.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/PT_33.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/PT_34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/PT_34.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/pt32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/styl_pt.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/vagon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/vagon.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pt/zagol.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Cas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Caspersk.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Chur.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Chur1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Chur2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Chur3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/D3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Degterev.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Degterev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Degterev2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Degterev2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Degterev2m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Degterev3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Degterev4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Degterev4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Degterev5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Degterev5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Degterevm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Dimonov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Dimonov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Fedin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Fedin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Fedin1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Fedin1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Fetisov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Fr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Franc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Franc1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Franc1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/G3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Gal_imp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Gal_imp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Galko1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Galko2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Galko2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Gavshin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Kaz09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Kazenn2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Kazenn3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Kazenn3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Kazennov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Krivyh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Kuchuk.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Kuchuk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Kuchuk2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Kuzmin1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Mazur.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Monahov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Monahov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Naumova.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Naumova.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Ozerova.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/PEU.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/PRKR.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/P_mol.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Platon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Popov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Popov2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Popov3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Popov3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Popov4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Popov4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Popov5.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Puhaev.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Puhaev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/RKRP.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/RKRP1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/RZP.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Shabusov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Shabusov1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Shilov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Shilov1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Shishkin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Shishkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Sokil.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Sokil.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Sokilm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Sovet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Sovety_sm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Stalin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Stalin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Stalin135.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Stalin135.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Tagan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Tagan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Travchuk.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Travchuk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Tulkin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Vasya.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Vasya1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Yurkov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Yurkov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Yurkov2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Yurkov2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Yurkov2m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/antirev.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/avtoprom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/blank.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/book1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/book2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/borba.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/burd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/burokrat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cagar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/class.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/control.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dengi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dialec.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dokery.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/drevo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/en.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/engels.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/engels.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fash-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fash.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fne.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fnpr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/g1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/g2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/gegel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/gegel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/gerasimov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/history.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/hod-ind.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/hod.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/hod.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/i.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/izm_pro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/kautskii.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/kontra.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/kontra2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/kr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/krisis.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/lenin_idea_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/linia.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/ludi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/ludi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/ma2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/mazur.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/mazur1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/mazur2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/mazur3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/mazur4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/mazurm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/nasled.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/new_zk.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/ochist.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/offshore.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/party.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pensvoz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/popov1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/prof.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/prof_ob.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/prot_soc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/ptp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/ptt.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/public.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/renegat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/rost.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/sh01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/sh02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/sout.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/srm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/stamp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/terkin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/terkin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/termidor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/termidor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/transfor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/trud.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/udary_tk.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/uglub.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/uglub.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vybory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vybory.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/z1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/z1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/z2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/z2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/zametki.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/zarp_zol.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/zavod.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/zavod.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/zavtr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/zb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/zm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/zolotov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/zolotov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/zolotov1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/zolotov2-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/zolotov2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/zolotov2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/zolotov2m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/zolotov2ris.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/zolotovm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recsov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/aboutrkr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/con16rec.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/con17rec.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/con2017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/IMG_0025.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/IMG_0025.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/IMG_0025_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/IMG_0049.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/IMG_0049.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/IMG_0049_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/IMG_0053.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/IMG_0053.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/IMG_0053_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/IMG_0084.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/IMG_0084.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/IMG_0084_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155369.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155369.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155369_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155376.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155376.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155376_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155383.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155383.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155383_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155384.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155384.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155384_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155393.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155393.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155393_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155396.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155396.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155396_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155399.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155399.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155399_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155400.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155400.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155400_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155401.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155401.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155401_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155409.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155409.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155409_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155429.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155429.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155429_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155435.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155435.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155435_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155444.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155444.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155444_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155446.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155446.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155446_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155451.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155451.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155451_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155457.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155457.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155457_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155470.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155470.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155470_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155477.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155477.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155477_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155479.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155479.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155479_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155485.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155485.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155485_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155487.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155487.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155487_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155493.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155493.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155493_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155500.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155500_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155508.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155508.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155508_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155514.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155514.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155514_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155515.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155515.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155515_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155521.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155521.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155521_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155525.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155525.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155525_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155526.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155526.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011-2/PA155526_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00277.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00277.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00277_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00282.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00282.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00282_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00291.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00291.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00291_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00304.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00304.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00304_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00306.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00306.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00306_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00309.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00309.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00309_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00310.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00310.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00310_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00313.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00313.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00313_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00320.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00320.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00320_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00322.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00322.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00322_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00324.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00324.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00324_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00334.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00334.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00334_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00376.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00376.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00376_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00388.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00388.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/DSC00388_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0089.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0089.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0089_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0099.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0099.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0099_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0100.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0100_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0108.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0108.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0108_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0135.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0135.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0135_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0153.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0153.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0153_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0158.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0158.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0158_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0189.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0189.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/fg_2011/IMG_0189_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/nabat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/nabat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou04pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou04pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou05pos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou05rez.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou06pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou06pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou06pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou07pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou07pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou07pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou08pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou08pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou08pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou08pos4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou09pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou09pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou09pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou10pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou10pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou10pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou11pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou11pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou11pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou12pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou12pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou12pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou13pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou13pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou13pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou13pos4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou13pos5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou14pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou14pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou14pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou14pos4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou15pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou15pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou15pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou15pos4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou16pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou16pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou16pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou16pos4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou17pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou17pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou17pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou2011.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/ou2012.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/out2013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/out2014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/out2015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/out2016.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/out2017-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/out2017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/out_04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/out_05.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/out_05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/out_06.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/out_07.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/out_08.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/out_09.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/out_10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/out_11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/out_12.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/out_13.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/out_14.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/out_15.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/out_16.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/out_17.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/pr_ou08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/pr_sp09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/prig2018.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/prig2018.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/rkr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/rkr06-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/rkr09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/rkr20051.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/rkr_ou10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp04pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp04pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp04pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp05pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp05pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp06pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp06pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp07pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp07pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp07pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp07pos4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp08pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp08pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp08pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp09pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp09pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp09pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp10-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp10-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp10pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp10pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp10pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp11pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp11pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp11pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp11pos4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp12pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp12pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp12pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp12pos4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp13pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp13pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp13pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp14pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp14pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp14pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp14pos4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp14pos5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp14pos6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp15ob.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp15pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp15pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp15pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp15pos4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp16pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp16pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp16pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp16pos4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp16pos5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp17pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp17pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp17pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp18pos1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp18pos2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp18pos3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp18pos4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp2011_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/sp_04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr2012.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr2013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr_04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr_05.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr_06.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr_07.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr_08.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr_09.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr_10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr_11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr_12.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr_13.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr_14.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr_15.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr_15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr_16.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr_16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr_17.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr_17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr_18.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/spr_18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/zal_ou08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/zal_ou09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rkr/zal_sp09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/Bel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/Belyaev.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/FRAblank.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/Karet09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/Karetnikov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/KonfPST.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/Putinu.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/RKRblank.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/RPDblank.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d37-1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d37-2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d38.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d39.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d40.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d41.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d42.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d43.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d44.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d45.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d46.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d47.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d48.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d49.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d50.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d51.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d52.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d53.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d54.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d55.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d56.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d57.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d58.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d59.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d60.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d61.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d62.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d63_1_4.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d63_2_3.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/d64.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/kd.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/konf2009.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/meet_vsk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/moiseen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/moiseen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/moiseenb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/otlup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/plan9-12.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/press.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/pressa/gorod.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/pressa/logo_grd.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/pressa/logo_np.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/pressa/logo_spv.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/pressa/np-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/pressa/np-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/pressa/pressa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/pressa/spbv-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/pressa/spbv-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/prof.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/putinu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/rpd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/sid.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/skleika.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/sogl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/sryv.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zadachi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zarplata.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd12.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd13.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd169.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd181.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd182.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd183.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd184.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd185.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd186.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd187.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd188.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd189.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd190.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd191.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd192.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd193.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd194.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd195.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd196.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd196.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd197.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd198.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd199.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd199.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd200.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd201.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd202.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd203.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd204.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd205.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd206.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpd/zrd207.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/Ukraine2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/Ukraine3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/XIII/post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/XIII/rezol.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/XIV/postXIV.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/XIX/postXIX.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/XVI/postXVI.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/XVII/postXVII.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/XVII/sten.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/XVII/sten.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/XVII/sten.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/XVIII/postXVIII.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/XX/postXX.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/XXII/postanovXXII.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/XXII/rpr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/XXV/XXV.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/XXV/XXV.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/doc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/fzk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/inf.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/program.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpr/ustav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rpw-mos.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rsrs.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rtv.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sbornik.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sovet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sovety.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sovety1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sovety2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sovkon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sovkon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trud100x100.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/conf_2013.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/conf_2013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/conf_2017.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/conf_2017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/goblin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/klgd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/klgd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/kr_semestr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/krun.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/raznoe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/razvedoprosy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/rkr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/rkr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/rkr12013.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/rkr12014.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/rkr12014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/rkr12015.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/rkr12015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/rkr12016.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/rkr22013.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/rkr22013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/rkr22014.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/rkr22014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/rkr22015.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/rkr22015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/rkr22016.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/rtv.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/rtv.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/spr_16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/univer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/univer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/urk.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/urk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/video/video.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadachi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zil.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ANNlogo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/Etmanov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/Etmanov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/Zolotov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/budem.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/caterp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/caterp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ceh1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ceh2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ceh3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ford_zag.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/50.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/Cygan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/Denis.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/Fedotov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/Harlanov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/Igoshina.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/Igoshina.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/Konyaev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/Myachev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/Pugach.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/RNO.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/RNO.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/Rysev.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/Shishka.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/Zolotov.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/Zolotov.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/electro.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/koldog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/oblozhka.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/orang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/tank400.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/zagol_ks.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/ks/zagolzrd.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/logo1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/logo_dp.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/logo_k.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/meet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/overtime.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/pressa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/rpd_zag.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/spm.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/tabl.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/vremya.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/zagolzrd.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/zarplata.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/zkh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd/zkh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zrd_bann.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zt.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mironov.html" beforeDir="false" afterPath="$PROJECT_DIR$/Mironov.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kb3/Efremov.html" beforeDir="false" afterPath="$PROJECT_DIR$/kb3/Efremov.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kb3/Koshkin.html" beforeDir="false" afterPath="$PROJECT_DIR$/kb3/Koshkin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kb3/kb3.html" beforeDir="false" afterPath="$PROJECT_DIR$/kb3/kb3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/L2012.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/L2012.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/L2013.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/L2013.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fa.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/fa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/uroki.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/uroki.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/vybory.html" beforeDir="false" afterPath="$PROJECT_DIR$/lib/vybory.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rpd/zadachi.html" beforeDir="false" afterPath="$PROJECT_DIR$/rpd/zadachi.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -1927,19 +24,187 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nr/Leshuk.html">
+        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="30" column="54" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
+            <state relative-caret-position="60">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kb3/Efremov.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#120#126#0" expanded="true" />
+                <element signature="e#137#143#0" expanded="true" />
+                <element signature="e#166#172#0" expanded="true" />
+                <element signature="e#176#182#0" expanded="true" />
+                <element signature="e#12644#12650#0" expanded="true" />
+                <element signature="e#12983#12989#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rpd/zadachi.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+              <folding>
+                <element signature="e#406#412#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mironov.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="437" selection-start-line="437" selection-end-line="437" />
+              <folding>
+                <element signature="e#5369#5375#0" expanded="true" />
+                <element signature="e#5378#5384#0" expanded="true" />
+                <element signature="e#5399#5405#0" expanded="true" />
+                <element signature="e#5408#5414#0" expanded="true" />
+                <element signature="e#5420#5426#0" expanded="true" />
+                <element signature="e#5442#5448#0" expanded="true" />
+                <element signature="e#5451#5457#0" expanded="true" />
+                <element signature="e#5537#5543#0" expanded="true" />
+                <element signature="e#5708#5714#0" expanded="true" />
+                <element signature="e#5815#5821#0" expanded="true" />
+                <element signature="e#6004#6010#0" expanded="true" />
+                <element signature="e#6019#6025#0" expanded="true" />
+                <element signature="e#6032#6038#0" expanded="true" />
+                <element signature="e#6117#6123#0" expanded="true" />
+                <element signature="e#6293#6299#0" expanded="true" />
+                <element signature="e#6302#6308#0" expanded="true" />
+                <element signature="e#6388#6394#0" expanded="true" />
+                <element signature="e#6584#6590#0" expanded="true" />
+                <element signature="e#6669#6675#0" expanded="true" />
+                <element signature="e#6836#6842#0" expanded="true" />
+                <element signature="e#7073#7079#0" expanded="true" />
+                <element signature="e#7158#7164#0" expanded="true" />
+                <element signature="e#7428#7434#0" expanded="true" />
+                <element signature="e#7442#7448#0" expanded="true" />
+                <element signature="e#7459#7465#0" expanded="true" />
+                <element signature="e#7484#7490#0" expanded="true" />
+                <element signature="e#7497#7503#0" expanded="true" />
+                <element signature="e#7514#7520#0" expanded="true" />
+                <element signature="e#7528#7534#0" expanded="true" />
+                <element signature="e#7545#7551#0" expanded="true" />
+                <element signature="e#7558#7564#0" expanded="true" />
+                <element signature="e#7846#7852#0" expanded="true" />
+                <element signature="e#8110#8116#0" expanded="true" />
+                <element signature="e#8382#8388#0" expanded="true" />
+                <element signature="e#8391#8397#0" expanded="true" />
+                <element signature="e#8476#8482#0" expanded="true" />
+                <element signature="e#8647#8653#0" expanded="true" />
+                <element signature="e#8732#8738#0" expanded="true" />
+                <element signature="e#8916#8922#0" expanded="true" />
+                <element signature="e#9001#9007#0" expanded="true" />
+                <element signature="e#9178#9184#0" expanded="true" />
+                <element signature="e#9449#9455#0" expanded="true" />
+                <element signature="e#9697#9703#0" expanded="true" />
+                <element signature="e#9782#9788#0" expanded="true" />
+                <element signature="e#9961#9967#0" expanded="true" />
+                <element signature="e#10208#10214#0" expanded="true" />
+                <element signature="e#10293#10299#0" expanded="true" />
+                <element signature="e#10456#10462#0" expanded="true" />
+                <element signature="e#10465#10471#0" expanded="true" />
+                <element signature="e#10551#10557#0" expanded="true" />
+                <element signature="e#10718#10724#0" expanded="true" />
+                <element signature="e#10727#10733#0" expanded="true" />
+                <element signature="e#10812#10818#0" expanded="true" />
+                <element signature="e#11048#11054#0" expanded="true" />
+                <element signature="e#11133#11139#0" expanded="true" />
+                <element signature="e#11295#11301#0" expanded="true" />
+                <element signature="e#11311#11317#0" expanded="true" />
+                <element signature="e#11573#11579#0" expanded="true" />
+                <element signature="e#11658#11664#0" expanded="true" />
+                <element signature="e#11846#11852#0" expanded="true" />
+                <element signature="e#11855#11861#0" expanded="true" />
+                <element signature="e#11940#11946#0" expanded="true" />
+                <element signature="e#12122#12128#0" expanded="true" />
+                <element signature="e#12207#12213#0" expanded="true" />
+                <element signature="e#12390#12396#0" expanded="true" />
+                <element signature="e#12399#12405#0" expanded="true" />
+                <element signature="e#12485#12491#0" expanded="true" />
+                <element signature="e#12682#12688#0" expanded="true" />
+                <element signature="e#12691#12697#0" expanded="true" />
+                <element signature="e#12705#12711#0" expanded="true" />
+                <element signature="e#12728#12734#0" expanded="true" />
+                <element signature="e#12737#12743#0" expanded="true" />
+                <element signature="e#12765#12771#0" expanded="true" />
+                <element signature="e#12774#12780#0" expanded="true" />
+                <element signature="e#12860#12866#0" expanded="true" />
+                <element signature="e#13028#13034#0" expanded="true" />
+                <element signature="e#13037#13043#0" expanded="true" />
+                <element signature="e#13122#13128#0" expanded="true" />
+                <element signature="e#13412#13418#0" expanded="true" />
+                <element signature="e#13437#13443#0" expanded="true" />
+                <element signature="e#13446#13452#0" expanded="true" />
+                <element signature="e#13462#13468#0" expanded="true" />
+                <element signature="e#13478#13484#0" expanded="true" />
+                <element signature="e#13564#13570#0" expanded="true" />
+                <element signature="e#13676#13682#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/vybory.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/fa.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/L2013.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/L2015.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="97" selection-start-line="97" selection-end-line="97" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nr/pr_zv.html">
+        <entry file="file://$PROJECT_DIR$/lib/uroki.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+            <state relative-caret-position="332">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/L2012.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#158#164#0" expanded="true" />
+                <element signature="e#166#172#0" expanded="true" />
+                <element signature="e#172#178#0" expanded="true" />
+                <element signature="e#189#195#0" expanded="true" />
+                <element signature="e#195#201#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1960,7 +225,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/lib/lib.html" />
@@ -1987,6 +251,17 @@
         <option value="$PROJECT_DIR$/nr/Kudr.html" />
         <option value="$PROJECT_DIR$/nr/Leshuk.html" />
         <option value="$PROJECT_DIR$/nr/pr_zv.html" />
+        <option value="$PROJECT_DIR$/kb3/Koshkin.html" />
+        <option value="$PROJECT_DIR$/kb3/kb3.html" />
+        <option value="$PROJECT_DIR$/kb3/Efremov.html" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/rpd/zadachi.html" />
+        <option value="$PROJECT_DIR$/Mironov.html" />
+        <option value="$PROJECT_DIR$/lib/vybory.html" />
+        <option value="$PROJECT_DIR$/lib/fa.html" />
+        <option value="$PROJECT_DIR$/lib/L2013.html" />
+        <option value="$PROJECT_DIR$/lib/L2012.html" />
+        <option value="$PROJECT_DIR$/lib/uroki.html" />
       </list>
     </option>
   </component>
@@ -2009,6 +284,16 @@
             <path>
               <item name="rpw" type="b2602c69:ProjectViewProjectNode" />
               <item name="rpw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rpw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rpw" type="462c0819:PsiDirectoryNode" />
+              <item name="kb3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rpw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rpw" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rpw" type="b2602c69:ProjectViewProjectNode" />
@@ -2056,18 +341,18 @@
       <option name="presentableId" value="Default" />
       <updated>1547848731787</updated>
       <workItem from="1547848732945" duration="327000" />
-      <workItem from="1547849820344" duration="7352000" />
+      <workItem from="1547849820344" duration="9504000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7679000" />
+    <option name="totallyTimeSpent" value="9831000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18981738" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2268954" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -2080,7 +365,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.52591795" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.44060475" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -2094,13 +379,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.md" />
     <entry file="file://$PROJECT_DIR$/_site/jekyll/update/2019/01/19/welcome-to-jekyll.html" />
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fra/fra.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -2593,9 +871,207 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nr/pr_zv.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kb3/Koshkin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+        <state relative-caret-position="300">
+          <caret line="60" column="61" selection-start-line="60" selection-start-column="61" selection-end-line="60" selection-end-column="61" />
+          <folding>
+            <element signature="e#1159#1165#0" expanded="true" />
+            <element signature="e#1171#1177#0" expanded="true" />
+            <element signature="e#3597#3603#0" expanded="true" />
+            <element signature="e#5845#5851#0" expanded="true" />
+            <element signature="e#7012#7018#0" expanded="true" />
+            <element signature="e#7111#7117#0" expanded="true" />
+            <element signature="e#8190#8196#0" expanded="true" />
+            <element signature="e#9341#9347#0" expanded="true" />
+            <element signature="e#9671#9677#0" expanded="true" />
+            <element signature="e#9753#9759#0" expanded="true" />
+            <element signature="e#10742#10748#0" expanded="true" />
+            <element signature="e#11561#11567#0" expanded="true" />
+            <element signature="e#11751#11757#0" expanded="true" />
+            <element signature="e#16816#16822#1" expanded="true" />
+            <element signature="e#17072#17078#1" expanded="true" />
+            <element signature="e#17521#17527#1" expanded="true" />
+            <element signature="e#17652#17658#1" expanded="true" />
+            <element signature="e#17919#17925#1" expanded="true" />
+            <element signature="e#18593#18599#1" expanded="true" />
+            <element signature="e#19212#19218#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kb3/kb3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kb3/Efremov.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#120#126#0" expanded="true" />
+            <element signature="e#137#143#0" expanded="true" />
+            <element signature="e#166#172#0" expanded="true" />
+            <element signature="e#176#182#0" expanded="true" />
+            <element signature="e#12644#12650#0" expanded="true" />
+            <element signature="e#12983#12989#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rpd/zadachi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+          <folding>
+            <element signature="e#406#412#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mironov.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="437" selection-start-line="437" selection-end-line="437" />
+          <folding>
+            <element signature="e#5369#5375#0" expanded="true" />
+            <element signature="e#5378#5384#0" expanded="true" />
+            <element signature="e#5399#5405#0" expanded="true" />
+            <element signature="e#5408#5414#0" expanded="true" />
+            <element signature="e#5420#5426#0" expanded="true" />
+            <element signature="e#5442#5448#0" expanded="true" />
+            <element signature="e#5451#5457#0" expanded="true" />
+            <element signature="e#5537#5543#0" expanded="true" />
+            <element signature="e#5708#5714#0" expanded="true" />
+            <element signature="e#5815#5821#0" expanded="true" />
+            <element signature="e#6004#6010#0" expanded="true" />
+            <element signature="e#6019#6025#0" expanded="true" />
+            <element signature="e#6032#6038#0" expanded="true" />
+            <element signature="e#6117#6123#0" expanded="true" />
+            <element signature="e#6293#6299#0" expanded="true" />
+            <element signature="e#6302#6308#0" expanded="true" />
+            <element signature="e#6388#6394#0" expanded="true" />
+            <element signature="e#6584#6590#0" expanded="true" />
+            <element signature="e#6669#6675#0" expanded="true" />
+            <element signature="e#6836#6842#0" expanded="true" />
+            <element signature="e#7073#7079#0" expanded="true" />
+            <element signature="e#7158#7164#0" expanded="true" />
+            <element signature="e#7428#7434#0" expanded="true" />
+            <element signature="e#7442#7448#0" expanded="true" />
+            <element signature="e#7459#7465#0" expanded="true" />
+            <element signature="e#7484#7490#0" expanded="true" />
+            <element signature="e#7497#7503#0" expanded="true" />
+            <element signature="e#7514#7520#0" expanded="true" />
+            <element signature="e#7528#7534#0" expanded="true" />
+            <element signature="e#7545#7551#0" expanded="true" />
+            <element signature="e#7558#7564#0" expanded="true" />
+            <element signature="e#7846#7852#0" expanded="true" />
+            <element signature="e#8110#8116#0" expanded="true" />
+            <element signature="e#8382#8388#0" expanded="true" />
+            <element signature="e#8391#8397#0" expanded="true" />
+            <element signature="e#8476#8482#0" expanded="true" />
+            <element signature="e#8647#8653#0" expanded="true" />
+            <element signature="e#8732#8738#0" expanded="true" />
+            <element signature="e#8916#8922#0" expanded="true" />
+            <element signature="e#9001#9007#0" expanded="true" />
+            <element signature="e#9178#9184#0" expanded="true" />
+            <element signature="e#9449#9455#0" expanded="true" />
+            <element signature="e#9697#9703#0" expanded="true" />
+            <element signature="e#9782#9788#0" expanded="true" />
+            <element signature="e#9961#9967#0" expanded="true" />
+            <element signature="e#10208#10214#0" expanded="true" />
+            <element signature="e#10293#10299#0" expanded="true" />
+            <element signature="e#10456#10462#0" expanded="true" />
+            <element signature="e#10465#10471#0" expanded="true" />
+            <element signature="e#10551#10557#0" expanded="true" />
+            <element signature="e#10718#10724#0" expanded="true" />
+            <element signature="e#10727#10733#0" expanded="true" />
+            <element signature="e#10812#10818#0" expanded="true" />
+            <element signature="e#11048#11054#0" expanded="true" />
+            <element signature="e#11133#11139#0" expanded="true" />
+            <element signature="e#11295#11301#0" expanded="true" />
+            <element signature="e#11311#11317#0" expanded="true" />
+            <element signature="e#11573#11579#0" expanded="true" />
+            <element signature="e#11658#11664#0" expanded="true" />
+            <element signature="e#11846#11852#0" expanded="true" />
+            <element signature="e#11855#11861#0" expanded="true" />
+            <element signature="e#11940#11946#0" expanded="true" />
+            <element signature="e#12122#12128#0" expanded="true" />
+            <element signature="e#12207#12213#0" expanded="true" />
+            <element signature="e#12390#12396#0" expanded="true" />
+            <element signature="e#12399#12405#0" expanded="true" />
+            <element signature="e#12485#12491#0" expanded="true" />
+            <element signature="e#12682#12688#0" expanded="true" />
+            <element signature="e#12691#12697#0" expanded="true" />
+            <element signature="e#12705#12711#0" expanded="true" />
+            <element signature="e#12728#12734#0" expanded="true" />
+            <element signature="e#12737#12743#0" expanded="true" />
+            <element signature="e#12765#12771#0" expanded="true" />
+            <element signature="e#12774#12780#0" expanded="true" />
+            <element signature="e#12860#12866#0" expanded="true" />
+            <element signature="e#13028#13034#0" expanded="true" />
+            <element signature="e#13037#13043#0" expanded="true" />
+            <element signature="e#13122#13128#0" expanded="true" />
+            <element signature="e#13412#13418#0" expanded="true" />
+            <element signature="e#13437#13443#0" expanded="true" />
+            <element signature="e#13446#13452#0" expanded="true" />
+            <element signature="e#13462#13468#0" expanded="true" />
+            <element signature="e#13478#13484#0" expanded="true" />
+            <element signature="e#13564#13570#0" expanded="true" />
+            <element signature="e#13676#13682#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/vybory.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/fa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/L2012.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#158#164#0" expanded="true" />
+            <element signature="e#166#172#0" expanded="true" />
+            <element signature="e#172#178#0" expanded="true" />
+            <element signature="e#189#195#0" expanded="true" />
+            <element signature="e#195#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/L2013.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/L2015.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/uroki.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
