@@ -26,7 +26,8 @@ ul.library li img {
 }
 
 .book-description {
-    padding: 1px 20px 10px 20px;
+    background: white;
+    padding: 1px 40px 10px 40px;
     border-style: none solid;
     border-width: thin;
     border-color: #bdbdbd;
@@ -36,7 +37,7 @@ ul.library li img {
 }
 
 .book-description-container {
-    width: 800px;
+    width: 840px;
     margin: 20px auto;
 }
 

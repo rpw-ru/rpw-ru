@@ -1,6 +1,10 @@
 @import url("fonts.css");
 @import url("library.css");
 
+body {
+    background: #efefef;
+}
+
 p {
      font-size: 11pt;
      color: #000000;
