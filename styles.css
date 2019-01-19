@@ -1,0 +1,200 @@
+@import url("css/fonts.css");
+
+p {
+     font-size: 11pt;
+     color: #000000;
+     text-indent: 30pt;
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     text-align: justify;
+     line-height:15pt 
+}
+ .pt {
+     font-size: 12pt;
+     line-height:17pt 
+}
+ a {
+     font-weight: bold;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 12pt;
+     color: #003366;
+     text-decoration: none 
+}
+ a:visited {
+     color: #20B2AA 
+}
+ a:hover {
+     color: #ff4500 
+}
+ h1 {
+     font-weight: bold;
+     font-size: 21pt;
+     color: red;
+     font-family: Times new roman;
+     text-align: center;
+     text-transform:UPPERCASE;
+     line-height:33pt 
+}
+ h2 {
+     font-weight: bold;
+     font-size: 12pt;
+     color: #993333;
+     font-family: Arial, Helvetica, Verdana, sans-serif;
+     text-align: center 
+}
+
+h3 {
+     font-weight: bold;
+     font-size: 12pt;
+     color: #DC143C;
+     font-family: Times, Helvetica, Verdana, sans-serif;
+     text-align: center 
+}
+
+.right {
+     text-indent: 0pt;
+     text-align: right;
+}
+.left {
+     text-align: left;
+}
+ .author {
+     font-weight: bold;
+     font-size: 9pt;
+     color: #000000;
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     text-align: right;
+     line-height:10pt 
+}
+ .contact {
+     text-indent: 0pt;
+     font-size: 8pt;
+     color: blue;
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     text-align: center 
+}
+ .triumf {
+     font-size: 17pt;
+     font-family: Times new roman;
+     text-align: center;
+     color: Red;
+     line-height:21pt 
+}
+ .v_menu {
+     font-size: 12pt;
+     text-align: center 
+}
+ .list {
+     font-size: 11pt 
+}
+ .np {
+     font-size: 9pt;
+     color: Red;
+     font-family: Arial, Helvetica, Verdana, sans-serif;
+     text-align: right;
+}
+ .lib {
+     font-weight: bold;
+     text-transform:UPPERCASE;
+     text-indent: 0pt 
+}
+ .auth {
+     text-indent: 0pt;
+     font-family: Arial, Helvetica, Verdana, sans-serif;
+     text-align: center 
+}
+ .tabl {
+     text-indent: 0pt;
+     text-align: left 
+}
+ .plan {
+     font-size: 12pt;
+     text-indent: 0pt;
+     text-align: left;
+     font-family: Times, Arial, Helvetica, sans-serif;
+}
+ .nomer {
+     text-indent: 0pt;
+     text-align: center 
+}
+ .citata {
+     font-style: italic;
+     font-family: Times new roman;
+}
+ .petit {
+     font-family: Times new roman;
+}
+ .petit_t {
+     font-family: Times new roman;
+     text-indent: 0pt 
+}
+ .big {
+    font-size: 14pt;
+     text-indent: 42pt;
+     line-height:21pt
+}
+ .small {
+    font-size: 7pt;
+     text-indent: 20pt;
+     line-height:10pt;
+     font-style: italic 
+}
+ .pered {
+     font-size: 12pt;
+     line-height:19pt;
+     font-weight: bold 
+}
+ .shapka {
+    font-size: 9pt;
+     text-indent: 0pt;
+     line-height:11pt;
+     font-weight: bold
+}
+
+.letter {
+	background: white;
+	box-shadow: 0 0 20px rgba(0,0,0,0.5);
+	padding: 20px 30px;
+	width: 50%;
+	margin: 0 auto;
+}
+
+tbody img {
+	border: solid #cecece thin;
+}
+tbody img[align=left] { 
+	margin: 5px 20px 5px 0;
+}
+tbody img[align=center] {
+	margin: 5px 0 5px 0;
+}
+tbody img[align=right] { 
+	margin: 5px 0 5px 20px;
+}
+
+/* LETTER */
+
+.letter .author {
+	font-family: 'Bad Script', cursive;
+	font-size: 25px;
+	line-height: 25px;
+}
+
+.letter h1 {
+	font-family: 'Russo One', sans-serif;
+	letter-spacing: 2px;
+	font-size: 32px;
+	color: #d40b0b;
+}
+
+.letter p {
+	font-size: 14px;
+}
+
+@media print {
+	.letter { 
+		width: 100%; 
+		box-shadow: none;
+	}
+}
+
+

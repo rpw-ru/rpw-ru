@@ -1,0 +1,56 @@
+P {
+	FONT-SIZE: 12pt; COLOR: #000000; TEXT-INDENT: 30pt; FONT-FAMILY: Times, Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: justify; line-height:15pt
+}
+A {
+	FONT-WEIGHT: bold; FONT-FAMILY: Times; FONT-SIZE: 12pt; COLOR: #003366; text-decoration: underline 
+}
+A:visited {
+	COLOR: #B22222
+}
+A:hover {
+	COLOR: #ff4500
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 21pt; COLOR: red; FONT-FAMILY: Arial, Helvetica; TEXT-ALIGN: center; text-transform:UPPERCASE; line-height:33pt
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #993333; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif; TEXT-ALIGN: center
+}
+.author {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: right; line-height:10pt
+}
+.contact {
+	TEXT-INDENT: 0pt; FONT-SIZE: 8pt; COLOR: blue; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+.triumf {
+	FONT-SIZE: 17pt; FONT-FAMILY: Times new roman; TEXT-ALIGN: center; Color: Red; line-height:21pt
+}
+.v_menu {
+	FONT-SIZE: 12pt;  TEXT-ALIGN: center 
+}
+.list {
+	FONT-SIZE: 11pt
+}
+.np  {
+	FONT-SIZE: 9pt; COLOR: Red; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif; TEXT-ALIGN: right; 
+}
+.lib {
+      FONT-WEIGHT: bold; text-transform:UPPERCASE; TEXT-INDENT: 0pt
+}
+.auth {
+       TEXT-INDENT: 0pt; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif; TEXT-ALIGN: center
+}
+.tabl {
+       TEXT-INDENT: 0pt; TEXT-ALIGN: left
+}
+.nomer {
+       TEXT-INDENT: 0pt; TEXT-ALIGN: center
+}
+.citata {
+       FONT-STYLE: italic; FONT-FAMILY: Times new roman;
+}
+.petit {
+       FONT-FAMILY: Times new roman;
+}
+.big {FONT-SIZE: 14pt; TEXT-INDENT: 42pt; line-height:21pt}
+
