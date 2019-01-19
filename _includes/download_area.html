@@ -1,0 +1,9 @@
+<div class="download-area">
+    {% if page.buy %}
+    <a class="buy-link" href={{page.buy}}>Купить</a>
+    {% endif %}
+
+    {% if page.download %}
+    <a class="download-link" href="/books/{{page.download}}">Скачать</a>
+    {% endif %}
+</div>
