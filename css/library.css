@@ -56,3 +56,7 @@ ul.library li img {
 .book-description img[align="right"] {
     margin: 0 0 0 20px;
 }
+
+.book-description img {
+    max-width: 100%;
+}
