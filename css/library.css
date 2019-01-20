@@ -49,6 +49,10 @@ ul.library li img {
     padding-left: 50px;
 }
 
+.book-description p {
+    text-indent: 10px;
+}
+
 .book-description li p {
     text-indent: 0 !important;
 }
