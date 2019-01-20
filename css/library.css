@@ -48,3 +48,11 @@ ul.library li img {
 .book-description-container ul {
     padding: 0;
 }
+
+.book-description img[align="left"] {
+    margin: 0 20px 0 0;
+}
+
+.book-description img[align="right"] {
+    margin: 0 0 0 20px;
+}
