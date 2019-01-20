@@ -2,15 +2,18 @@
     background: #292929;
 }
 
-.sidebar div {
-    padding: 10px 20px;
+.sidebar a {
+    display: block;
+    text-align: left;
+    padding: 15px 20px;
+
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
 }
 
-.sidebar > div:first-child {
+.sidebar > a:first-child {
    margin-top: 10px;
 }
 
@@ -31,13 +34,13 @@
     background: red;
 }
 
-.sidebar div:hover {
+.sidebar a:hover {
     background: red;
     cursor: pointer;
     transition: background .2s;
 }
 
-.sidebar section div {
+.sidebar section a {
     background: #404040;
 }
 
