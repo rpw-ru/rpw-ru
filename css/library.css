@@ -36,6 +36,27 @@ ul.library li img {
     box-shadow: 0 3px 23px rgba(0,0,0,0.5);
 }
 
+.book-description table {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.book-description table td {
+    border: solid 1px #bdbdbd;
+}
+
+.book-description-container .book-description ul {
+    padding-left: 50px;
+}
+
+.book-description li p {
+    text-indent: 0 !important;
+}
+
+.book-description ul div {
+    padding-left: 20px;
+}
+
 .book-description-container {
     max-width: 840px;
     margin: 20px auto;
