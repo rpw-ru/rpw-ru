@@ -1,5 +1,5 @@
 <div class="sidebar">
-    <img class="logo" src="/fra.jpg" alt="Фонд Рабочей Академии">
+    <div class="logo">Фонд Рабочей Академии</div>
     <a href="../index.html" class=v_menu>ГЛАВНАЯ</a>
     <a href="../about.html" class=v_menu>О ФОНДЕ РАБОЧЕЙ АКАДЕМИИ</a>
     <a href="../public/public.html" class=v_menu>ПУБЛИЦИСТИКА</a>
@@ -48,3 +48,19 @@
      <a href="../rpr/doc.html" class=v_menu>ДОКУМЕНТЫ СЪЕЗДОВ</a>
     </section>
 </div>
+
+<script>
+    $(document).ready(function(){
+        // Route highlight
+        $('.v_menu').each(function(){
+            if($(this).get(0).href == window.location){
+                $(this).addClass('active')
+            }
+        });
+
+        $('.sidebar-section-title').on('click', function(){
+            $(this).next().toggle();
+        })
+    });
+
+</script>

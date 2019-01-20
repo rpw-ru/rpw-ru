@@ -1,5 +1,15 @@
+:root {
+    --red: #b10000;
+}
+
 .sidebar-container {
     background: #292929;
+}
+
+.sidebar .logo {
+    font-family: "Ruslan Display";
+    font-size: 39px;
+    padding: 20px;
 }
 
 .sidebar img.logo {
@@ -34,11 +44,11 @@
 }
 
 .sidebar > .active {
-    background: red;
+    background: var(--red);
 }
 
 .sidebar a:hover {
-    background: red;
+    background: var(--red);
     cursor: pointer;
     transition: background .2s;
 }
@@ -49,7 +59,6 @@
 
 .sidebar .sidebar-section-title:hover {
     background: #1f1f1f;
-    cursor: default;
 }
 
 .sidebar-section-title {
@@ -98,3 +107,6 @@ a.image img {
 
 }
 
+.sidebar-section {
+    display: none;
+}
