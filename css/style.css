@@ -245,3 +245,33 @@ section.main {
     grid-template-columns: 20% auto;
 }
 
+
+.news {
+    column-width: 320px;
+    column-gap: 15px;
+    width: 90%;
+    margin: 50px auto;
+}
+
+.news .news-item {
+    background: #fefefe;
+    border: 2px solid #fcfcfc;
+    box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
+    margin: 0 2px 15px;
+    padding: 15px;
+    padding-bottom: 10px;
+    transition: opacity .4s ease-in-out;
+    display: block;
+    column-break-inside: avoid;
+}
+
+.news .news-item img {
+    width: 100%;
+    height: auto;
+}
+
+
+@media screen and (max-width: 750px) {
+    #columns { column-gap: 0px; }
+    #columns figure { width: 100%; }
+}

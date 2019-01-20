@@ -4,6 +4,7 @@
 
 .sidebar-container {
     background: #292929;
+    min-height: 100vh;
 }
 
 .sidebar .logo {
