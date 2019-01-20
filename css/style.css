@@ -1,6 +1,7 @@
 @import url("fonts.css");
 @import url("library.css");
 @import url("sidebar.css");
+@import url("public.css");
 
 body {
     background: #efefef;

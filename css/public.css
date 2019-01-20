@@ -1,0 +1,17 @@
+ul.publics li {
+    font-family: Arial;
+    margin-bottom: 15px;
+    list-style-type: none;
+}
+
+ul.publics li span {
+    display: block;
+    color: gray;
+}
+
+ul.publics li a {
+    display: block;
+    color: black;
+}
+
+

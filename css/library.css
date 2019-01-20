@@ -37,7 +37,7 @@ ul.library li img {
 }
 
 .book-description-container {
-    width: 840px;
+    max-width: 840px;
     margin: 20px auto;
 }
 
