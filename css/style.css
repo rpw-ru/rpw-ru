@@ -262,7 +262,14 @@ section.main {
     padding-bottom: 10px;
     transition: opacity .4s ease-in-out;
     display: block;
-    column-break-inside: avoid;
+    break-inside: avoid;
+}
+
+.news-item h1 {
+    font-size: 25px;
+    line-height: 25px;
+    padding-bottom: 20px;
+    color: var(--red);
 }
 
 .news .news-item img {
