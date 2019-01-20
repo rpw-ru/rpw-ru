@@ -1,0 +1,94 @@
+.sidebar-container {
+    background: #292929;
+}
+
+.sidebar div {
+    padding: 10px 20px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.sidebar > div:first-child {
+   margin-top: 10px;
+}
+
+.sidebar .v_menu {
+    color: white;
+}
+
+.sidebar * {
+    color: white;
+    font-family: Arial;
+}
+
+.sidebar .sidebar-section div {
+    padding-left: 40px;
+}
+
+.sidebar > .active {
+    background: red;
+}
+
+.sidebar div:hover {
+    background: red;
+    cursor: pointer;
+    transition: background .2s;
+}
+
+.sidebar section div {
+    background: #404040;
+}
+
+.sidebar .sidebar-section-title:hover {
+    background: #1f1f1f;
+    cursor: default;
+}
+
+.sidebar-section-title {
+    position:relative;
+    padding-left: 40px;
+    background: #1f1f1f;
+}
+
+.sidebar-section-title:after {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: .255em;
+    vertical-align: .255em;
+    content: "";
+    border-top: .3em solid;
+    border-right: .3em solid transparent;
+    border-bottom: 0;
+    border-left: .3em solid transparent;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+}
+
+.sidebar a.image {
+    display: grid;
+    grid-template-columns: auto auto;
+    height: 70px;
+}
+
+a.image img {
+    height: 70px;
+}
+
+.sidebar a.image span.centered-container {
+    display: table;
+    width: 100%;
+    line-height: 70px;
+}
+
+.sidebar a.image span.centered {
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+
+}
+

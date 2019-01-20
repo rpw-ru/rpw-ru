@@ -1,8 +1,10 @@
 @import url("fonts.css");
 @import url("library.css");
+@import url("sidebar.css");
 
 body {
     background: #efefef;
+    margin: 0;
 }
 
 p {
@@ -235,5 +237,10 @@ button.playpause:hover {
 audio[controls] {
     margin: 20px 0;
     width: 100%;
+}
+
+section.main {
+    display: grid;
+    grid-template-columns: 20% auto;
 }
 
