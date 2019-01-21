@@ -1,8 +1,9 @@
 ul.library {
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     justify-content: center;
     align-content: start;
+    padding: 10px;
 }
 
 ul.library li {
