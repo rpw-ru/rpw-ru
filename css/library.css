@@ -43,6 +43,7 @@ ul.library li img {
 }
 
 .book-description img {
+    max-width: 100% !important;
     height: auto !important;
 }
 
