@@ -150,4 +150,16 @@ a.image img {
         min-height: auto;
     }
 
+    .book-description-container {
+        margin: 0;
+    }
+    .book-description {
+        padding: 1px 20px 10px 20px;;
+        margin: 0;
+        box-shadow: none;
+    }
+    .download-area {
+        padding: 0 10px;
+    }
+
 }

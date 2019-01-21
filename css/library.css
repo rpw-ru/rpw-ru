@@ -73,6 +73,7 @@ ul.library li img {
 
 .download-area {
     text-align: right;
+    line-height: 60px;
 }
 
 .book-description-container ul {
