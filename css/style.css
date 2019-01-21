@@ -185,10 +185,11 @@ tbody img[align=right] {
 
 /* LETTER */
 
-.letter .author {
+.author-sign {
 	font-family: 'Bad Script', cursive;
 	font-size: 25px;
 	line-height: 25px;
+    text-align: right;
 }
 
 .letter p {

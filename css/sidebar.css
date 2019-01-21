@@ -167,4 +167,10 @@ a.image img {
         padding: 0 10px;
     }
 
+    .author-sign {
+        font-size: 14px !important;
+        font-style: italic;
+        font-family: Arial !important;
+    }
+
 }
