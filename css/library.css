@@ -97,10 +97,6 @@ ul.library li img {
     padding: 0 !important;
 }
 
-.library {
-    column-width: 265px !important;
-}
-
 .library .news-item .author {
     font-family: "Open Sans Condensed";
     font-size: 20px;
@@ -123,3 +119,6 @@ ul.library li img {
     text-align: center;
 }
 
+.library {
+    column-width: 320px !important;
+}

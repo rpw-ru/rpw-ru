@@ -173,4 +173,8 @@ a.image img {
         font-family: Arial !important;
     }
 
+    .library {
+        column-width: 365px !important;
+    }
+
 }
