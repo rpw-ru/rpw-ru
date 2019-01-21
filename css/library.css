@@ -24,7 +24,17 @@ ul.library li p {
 ul.library li img {
     display: block;
     margin: 5px auto;
+    opacity: 0.8;
 }
+
+.library .news-item img {
+    opacity: 0.9;
+}
+
+.library .news-item img:hover {
+    opacity: 1;
+}
+
 
 .book-description {
     background: white;
@@ -119,6 +129,10 @@ ul.library li img {
     text-align: center;
 }
 
+.library .news-item .title-long {
+    font-size: 20px;
+}
+
 .library {
-    column-width: 320px !important;
+    column-width: 265px !important;
 }
