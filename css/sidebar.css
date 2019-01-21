@@ -92,7 +92,7 @@
 }
 
 a.image img {
-    height: 70px;
+    max-height: 70px;
 }
 
 .sidebar a.image span.centered-container {
@@ -112,14 +112,33 @@ a.image img {
     display: none;
 }
 
-@media screen and (max-width: 1200px) {
+.sidebar img {
+    max-width: 100%;
+}
+
+@media only screen and (max-width: 1350px) {
+
+    .sidebar .logo {
+        font-size: 30px;
+    }
+}
+
+@media only screen and (max-width: 1150px) and (min-width: 768px) {
 
     .sidebar .logo {
         font-size: 20px;
     }
+
+    .sidebar a.image {
+        text-align: center
+    }
+
+    .sidebar a.image span.centered-container {
+        display: none;
+    }
 }
 
-@media screen and (max-width: 750px) {
+@media only screen and (max-width: 768px) {
     section.main {
         display: block !important;
     }
