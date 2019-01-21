@@ -111,3 +111,19 @@ a.image img {
 .sidebar-section {
     display: none;
 }
+
+@media screen and (max-width: 1200px) {
+
+    .sidebar .logo {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    section.main {
+        display: block !important;
+    }
+    .sidebar-container {
+        min-height: auto;
+    }
+}
