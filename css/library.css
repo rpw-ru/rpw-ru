@@ -105,6 +105,15 @@ ul.library li img {
 
 .library .news-item {
     padding: 0 !important;
+    background: #1f1f1f !important;
+    border-style: none !important;
+}
+
+.library .news-item img {
+    border-style: solid;
+    border-color: gray;
+    border-width: thin thin 5px thin;
+    box-sizing: border-box;
 }
 
 .library .news-item .author {
@@ -113,7 +122,7 @@ ul.library li img {
     font-weight: normal;
     display: block;
     padding: 5px 10px 10px 10px;
-    color: gray;
+    color: lightgray;
     text-align: center;
 }
 
@@ -125,7 +134,7 @@ ul.library li img {
     padding: 5px 10px 10px 10px;
 
     font-weight: bold;
-    color: black;
+    color: white;
     text-align: center;
 }
 
