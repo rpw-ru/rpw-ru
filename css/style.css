@@ -201,6 +201,26 @@ tbody img[align=right] {
 		width: 100%;
 		box-shadow: none;
 	}
+    .book-description {
+        box-shadow: none;
+        border: none;
+    }
+
+    footer {
+        display: none;
+    }
+    .sidebar {
+        display: none;
+    }
+    section.main {
+        grid-template-columns: 0 auto !important;
+    }
+    .book-description-container {
+        max-width: 100% !important;
+    }
+    .download-area {
+        display: none;
+    }
 }
 
 a.buy-link {
